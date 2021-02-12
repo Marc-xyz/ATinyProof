@@ -33,3 +33,5 @@
 
 ![Imatge del pdf número 8](./generateREADME/Captura8.png)
 
+![Imatge del pdf número 9](./generateREADME/Captura9.png)
+
